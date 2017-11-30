@@ -1,0 +1,10 @@
+{
+  "name": "libmpv",
+  "version": "0.0.0",
+  "description": "Binding for libmpv",
+  "main": "index.js",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  }
+}
